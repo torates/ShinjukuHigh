@@ -7,7 +7,7 @@ This is a WIP project which contains as of now
 ✅HTTPS serving
 🚨Interactions (WIP)
 
-We are at phase 0, thus everything you see here is and will probably change.
+We are at phase 0, thus everything you see here is subjectible to and will probably change.
 
 
 # Developed by Andres (Iri). 
