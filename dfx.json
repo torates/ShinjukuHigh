@@ -3,19 +3,6 @@
     "ShinjukuHigh": {
       "main": "src/ShinjukuHigh/main.mo",
       "type": "motoko"
-    },
-    "ShinjukuHigh_assets": {
-      "dependencies": [
-        "ShinjukuHigh"
-      ],
-      "frontend": {
-        "entrypoint": "src/ShinjukuHigh_assets/src/index.html"
-      },
-      "source": [
-        "src/ShinjukuHigh_assets/assets",
-        "dist/ShinjukuHigh_assets/"
-      ],
-      "type": "assets"
     }
   },
   "defaults": {
